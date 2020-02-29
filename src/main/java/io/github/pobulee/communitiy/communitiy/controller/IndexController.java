@@ -1,4 +1,4 @@
-package io.github.pobulee.communitiy.communitiy;
+package io.github.pobulee.communitiy.communitiy.controller;
 
 import org.springframework.stereotype.Controller;
 
