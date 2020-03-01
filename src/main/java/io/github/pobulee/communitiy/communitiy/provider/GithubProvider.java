@@ -1,7 +1,6 @@
 package io.github.pobulee.communitiy.communitiy.provider;
 
 import com.alibaba.fastjson.JSON;
-import com.fasterxml.jackson.annotation.JsonAlias;
 import io.github.pobulee.communitiy.communitiy.dto.AccessTokenDto;
 import io.github.pobulee.communitiy.communitiy.dto.GithubUser;
 import okhttp3.*;
